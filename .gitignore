@@ -6,6 +6,9 @@ __pycache__/
 # CSV
 *.csv
 
+# folders
+images/
+
 # C extensions
 *.so
 
